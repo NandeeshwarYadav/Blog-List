@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.title {
+  font-size: 25px;
+}
+.description {
+  color: #9aa5b1;
+  font-size: 18px;
+}
+.title-date {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.list-el {
+  margin-bottom: 40px;
+}
